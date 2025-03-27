@@ -38,6 +38,7 @@ This risk-based approach enables organizations to:
 
 
 ## Key Advantages of This Approach
+
 | | |
 |---|---|
 | <img src="./assets/icons/shield-plus-duotone.svg" alt="Shield" style="clear: both; display: inline-block;" width="50px" height="auto" margin-left="10px" /> | **Resilience Over Prevention** <br />Creating adaptive systems that detect anomalies, reconfigure rapidly, learn continuously, and transform failures into improvements. |
